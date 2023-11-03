@@ -4,21 +4,21 @@ Javalab4-2
 ## Methods
 
 ### decodeVowels
-This method decodes vowels in a given input string. It replaces the numbers 1, 2, 3, 4, and 5 with the vowels 'a', 'e', 'i', 'o', and 'u', respectively.
+Цей метод замінює числа 1, 2, 3, 4, і 5 на 'a', 'e', 'i', 'o', і 'u'.
 
-Parameters:
+Параметри:
 
-input (String): The input string to be decoded.
+input (String)
 Returns:
 
-String: The decoded string with vowels replaced.
+Розкодований рядок з цифрами заміненими на букви.
 
 ### decodeConsonants
-This method decodes consonants in a given input string. It replaces letters from 'a' to 'z' with the previous letter in the English alphabet (e.g., 'b' is replaced with 'a', 'c' is replaced with 'b', and so on).
+Цей метод розкодовує приголосні. Він заміняє літери від 'a' до 'z' на попередню літеру з Англійського алфавіту.
 
-Parameters:
+Параметри:
 
-input (String): The input string to be decoded.
+input (String)
 Returns:
 
-String: The decoded string with consonants replaced.
+Розкодований рядок.
